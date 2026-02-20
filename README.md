@@ -187,7 +187,6 @@ python -m demo.image_demo demo/demo.png work_dirs/gta2cs_daformer_rcs_fdthings/i
 
 推理结果将保存在 `demo` 目录下，包含可视化的分割结果。
 
----
 
 ## 致谢
 
