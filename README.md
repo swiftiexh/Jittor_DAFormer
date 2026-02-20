@@ -177,7 +177,7 @@ python train.py --config configs/gta2cs_daformer.py --resume work_dirs/gta2cs_da
 
 ![Class IoU](work_dirs/gta2cs_daformer_rcs_fdthings/plots/class_iou.png)
 
-## 6.测试 - 单张图片推理
+## 6. 测试 - 单张图片推理
 
 训练 40000 次迭代得到了检查点文件 `iter_40000.pth`（联系我获取），可运行以下命令进行单张图片的语义分割推理：
 
