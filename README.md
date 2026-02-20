@@ -52,10 +52,9 @@ Jittor_DAFormer/
 ├── demo/
 │   └── image_demo.py               # 单张图片推理演示脚本
 ├── pretrained/
-│   └── mit_b5.pth                  # MiT-B5 预训练权重
+│   └── mit_b5.pth                  # MiT-B5 预训练权重（需自行下载）
 ├── work_dirs/
 │   └── gta2cs_daformer_rcs_fdthings/
-│       ├── iter_40000.pth          # 训练 40000 次迭代的模型检查点
 │       ├── logs/                   # 训练和验证日志
 │       └── plots/                  # 结果可视化图表
 ├── data/                           # 数据集目录（需自行下载）
